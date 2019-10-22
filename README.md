@@ -1,6 +1,17 @@
-# flutter_video_player
+# Flutter Video Player with Playlist
 
-A new Flutter project.
+- You can play videos from playlist.
+- Color of video changes in playlist when you complete the video
+
+# Screenshot
+
+<p align="center">
+  <img src="https://github.com/onurgurbuz/flutter_video_player/blob/master/assets/screenshot.png" width="200" height="320" align="center">
+</p>
+
+# Used libraries
+- [chewie](https://github.com/brianegan/chewie)
+- [video_player](https://github.com/flutter/plugins/tree/master/packages/video_player)
 
 ## Getting Started
 
